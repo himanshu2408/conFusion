@@ -1,0 +1,26 @@
+{
+  "name": "conFusion",
+  "authors": [
+    "Himanshu Singh <singh.himanshu2408@gmail.com>"
+  ],
+  "description": "Website of an awesome restaurant",
+  "main": "index.php",
+  "keywords": [
+    "conFusion",
+    "Fusion",
+    "Restaurant"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3"
+  }
+}
